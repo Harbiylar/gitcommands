@@ -4,3 +4,4 @@ def x(y):
 print(x(9))
 
 print("Lola")
+print("LLL")
